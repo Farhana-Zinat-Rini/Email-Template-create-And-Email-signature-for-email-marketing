@@ -161,10 +161,9 @@ Email-Marketing/
 
 ## Author
 
-**Rini Zinat**
+** Farhana Rini Zinat**
 
-Digital Marketing Learner
-
+Digital Marketing expert
 GitHub Portfolio Project
 
 ---
